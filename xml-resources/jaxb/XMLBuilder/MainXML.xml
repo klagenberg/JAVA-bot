@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<responseHandler>
+    <responses ID="1">
+        <query>hey</query>
+        <response>hey</response>
+        <location></location>
+    </responses>
+    <responses ID="2">
+        <query>hello</query>
+        <response>hello there, you come here often?</response>
+    </responses>
+    <responses ID="3">
+        <query>how are you?</query>
+        <response>"I'm doing good, you?" before smiling over at you softly.</response>
+    </responses>
+    <responses ID="4">
+        <query>who are you?</query>
+        <response>She sits up and smiles over at you curiously, "well, I am $name, and I am glad you decided to join me."</response>
+    </responses>
+    <responses ID="5">
+        <query>you hungry?</query>
+        <response>She smiles and shakes her head before her belly starts growling, and she smiles over at you shyly, \"uhh.. I think I coudl use a bit to eat.. You were volunteering?"</response>
+    </responses>
+    <responses ID="6">
+        <query>eat me</query>
+        <response>She nods and smiles at you before reaching out and pulling you in tighter and starts licking your head happily, her mouth open and giving you a very good look at her sharp teeth and healthy pink throat.
+            And then she gets in closer and start sliding a hand up along your neck and gently guiding you in tighter, her mouth open and your head sliding over her tongue and into her baw as she starts pulling you into her mouth.
+        </response>
+    </responses>
+</responseHandler>
